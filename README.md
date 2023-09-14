@@ -5,8 +5,3 @@ This project is to implement a new analytics "sessions" view. Given the data fro
 ## Installation
 
 Python3
-
-## Usage
-
-This program posts to API endpoint in JSON format. 
-
